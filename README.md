@@ -1,6 +1,6 @@
 # Lista de Tareas
 
-Este proyecto es una aplicación sencilla para gestionar tareas diarias, desarrollada como parte de la **Actividad 4 - Utilizando sistemas de control de versiones**.
+Este proyecto es una aplicación sencilla para gestionar tareas diarias, desarrollada como parte de la **Actividad 4 - Utilizando sistemas de control de versiones -- Instructura Carmen Rubio**.
 
 ## Descripción
 
